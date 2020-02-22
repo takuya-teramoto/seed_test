@@ -1,0 +1,2 @@
+class UpperCategory < ApplicationRecord
+end

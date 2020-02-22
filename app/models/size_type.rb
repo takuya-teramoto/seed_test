@@ -1,0 +1,2 @@
+class SizeType < ApplicationRecord
+end
